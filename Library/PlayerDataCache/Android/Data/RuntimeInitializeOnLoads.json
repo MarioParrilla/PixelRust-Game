@@ -1,0 +1,1 @@
+{"root":[{"assemblyName":"OneSignal.UnityPackage.Attribution","nameSpace":"OneSignalSDK","className":"VspAttribution","methodName":"AttachToInit","loadTypes":0,"isUnityClass":false},{"assemblyName":"OneSignal.Android","nameSpace":"","className":"OneSignalAndroidInit","methodName":"Init","loadTypes":0,"isUnityClass":false}]}
